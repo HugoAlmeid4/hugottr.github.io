@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Hugottr.com</title>
-    <link>https://hugottr.com/series/</link>
+    <link>https://hugoalmeid4.github.io/hugottr.github.io/series/</link>
     <description>Recent content in Series on Hugottr.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>contact@hugottr.com (Hugottr)</managingEditor>
     <webMaster>contact@hugottr.com (Hugottr)</webMaster>
     <copyright>© 2025 Hugottr</copyright>
-    <atom:link href="https://hugottr.com/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hugoalmeid4.github.io/hugottr.github.io/series/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

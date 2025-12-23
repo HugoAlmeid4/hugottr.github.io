@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://hugottr.com/sitemap.xml
+Sitemap: https://hugoalmeid4.github.io/hugottr.github.io/sitemap.xml
