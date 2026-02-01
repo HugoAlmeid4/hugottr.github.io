@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugottr</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on hugottr</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>contact@hugottr.com (Hugottr)</managingEditor>
+    <webMaster>contact@hugottr.com (Hugottr)</webMaster>
+    <copyright>© 2026 Hugottr</copyright>
+    <lastBuildDate>Fri, 30 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>I built my first home server</title>
+      <link>//localhost:1313/blog-posts/homeserverbuilt/</link>
+      <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
+      <author>contact@hugottr.com (Hugottr)</author>
+      <guid>//localhost:1313/blog-posts/homeserverbuilt/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/blog-posts/homeserverbuilt/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>My first post</title>
+      <link>//localhost:1313/blog-posts/firstpost/</link>
+      <pubDate>Fri, 30 Jan 2026 00:00:00 +0000</pubDate>
+      <author>contact@hugottr.com (Hugottr)</author>
+      <guid>//localhost:1313/blog-posts/firstpost/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/blog-posts/firstpost/feature.jpg" />
+    </item>
+    
+  </channel>
+</rss>
